@@ -1,7 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="d6db3eba-f2f3-4eb1-8047-e6e297569dc4" name="Default" comment="" />
+    <list default="true" id="d6db3eba-f2f3-4eb1-8047-e6e297569dc4" name="Default" comment="">
+      <change beforePath="$PROJECT_DIR$/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/README.md" afterDir="false" />
+    </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="TRACKING_ENABLED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -15,7 +17,7 @@
         <entry file="file://$PROJECT_DIR$/main.py">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="147">
-              <caret line="81" lean-forward="true" selection-start-line="81" selection-end-line="81" />
+              <caret line="81" selection-start-line="81" selection-end-line="81" />
               <folding>
                 <element signature="e#1#22#0" expanded="true" />
               </folding>
@@ -87,6 +89,11 @@
             <path>
               <item name="Finance-saver" type="b2602c69:ProjectViewProjectNode" />
               <item name="Finance-saver" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="Finance-saver" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Finance-saver" type="462c0819:PsiDirectoryNode" />
+              <item name="images" type="462c0819:PsiDirectoryNode" />
             </path>
           </expand>
           <select />
@@ -167,11 +174,11 @@
       <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.11103811" />
       <window_info anchor="bottom" id="TODO" order="6" weight="0.32977587" />
       <window_info anchor="bottom" id="Event Log" order="7" side_tool="true" />
-      <window_info active="true" anchor="bottom" id="Version Control" order="7" visible="true" weight="0.32946634" />
+      <window_info anchor="bottom" id="Version Control" order="7" weight="0.32946634" />
       <window_info anchor="bottom" id="Python Console" order="7" weight="0.32946634" />
       <window_info anchor="bottom" id="Run" order="2" weight="0.21113689" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
-      <window_info anchor="bottom" x="66" y="296" width="1522" height="362" id="Terminal" order="7" weight="0.41995358" />
+      <window_info active="true" anchor="bottom" x="66" y="296" width="1522" height="362" id="Terminal" order="7" visible="true" weight="0.41995358" />
       <window_info id="Favorites" order="2" side_tool="true" />
       <window_info anchor="bottom" id="Debug" order="3" weight="0.3991462" />
       <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
@@ -429,7 +436,7 @@
     <entry file="file://$PROJECT_DIR$/main.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="147">
-          <caret line="81" lean-forward="true" selection-start-line="81" selection-end-line="81" />
+          <caret line="81" selection-start-line="81" selection-end-line="81" />
           <folding>
             <element signature="e#1#22#0" expanded="true" />
           </folding>
